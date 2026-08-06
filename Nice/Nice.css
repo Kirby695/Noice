@@ -1,0 +1,22 @@
+.Niice {
+    color:black;
+    background-color: rgb(199, 0, 43);
+    display: grid;
+    place-items: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#raphelp {
+    width: 300px;
+    height: 500px;
+    border-radius: 40px;
+}
+
+.Nece {
+    color:black;
+    background-color: rgb(199, 0, 43);
+    display: grid;
+}

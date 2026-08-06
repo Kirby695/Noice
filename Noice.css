@@ -1,0 +1,39 @@
+.Nan {
+    color:black;
+    background-color: rgb(199, 0, 43);
+    display: grid;
+    place-items: center;
+}
+
+.Non {
+    background-color: rgb(206, 11, 11);
+    display: flex;
+    gap: 15px;
+}
+
+#raplouch {
+    width:300px;
+    height: 300px;
+    border-radius: 50px;
+    box-shadow:0 15px 40px rgba(0,0,0,.4);
+}
+
+#ra {
+    color:wheat
+}
+
+#rara {
+    width: 400px;
+    height: 400px;
+    border-radius: 100px;
+    box-shadow:0 40px 40px rgba(0,0,0,.4);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    color:antiquewhite
+}
